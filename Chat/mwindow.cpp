@@ -1,3 +1,5 @@
+//Copyrighted 2010 under CC 3.0 by Marius Savickas
+//http://creativecommons.org/licenses/by-nc/3.0/deed.en_US
 #include "mwindow.h"
 
 int WindowFunk::GetText(HWND textbox) //returns size

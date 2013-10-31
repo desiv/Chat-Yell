@@ -1,3 +1,6 @@
+//Copyrighted 2010 under CC 3.0 by Marius Savickas
+//http://creativecommons.org/licenses/by-nc/3.0/deed.en_US
+
 #pragma once
 #include "client.h"
 #include "mwindow.h"
