@@ -1,0 +1,12 @@
+#include "..\common.h"
+
+ID_MENU MENU DISCARDABLE
+BEGIN
+
+		//Menu start
+		POPUP "&Help"
+		BEGIN
+				MENUITEM "&About",	ID_HELP_ABOUT
+		END
+		//Menu end
+END
